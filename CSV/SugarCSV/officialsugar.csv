@@ -1,0 +1,1018 @@
+id,name,sugar
+1,Egg McMuffin,3
+2,Egg White Delight,3
+3,Sausage McMuffin,2
+4,Sausage McMuffin with Egg,2
+5,Sausage McMuffin with Egg Whites,2
+6,Steak & Egg McMuffin,3
+7,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",3
+8,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",4
+9,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",3
+10,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",4
+11,Sausage Biscuit (Regular Biscuit),2
+12,Sausage Biscuit (Large Biscuit),3
+13,Sausage Biscuit with Egg (Regular Biscuit),2
+14,Sausage Biscuit with Egg (Large Biscuit),3
+15,Sausage Biscuit with Egg Whites (Regular Biscuit),3
+16,Sausage Biscuit with Egg Whites (Large Biscuit),3
+17,Southern Style Chicken Biscuit (Regular Biscuit),3
+18,Southern Style Chicken Biscuit (Large Biscuit),4
+19,Steak & Egg Biscuit (Regular Biscuit),3
+20,"Bacon, Egg & Cheese McGriddles",15
+21,"Bacon, Egg & Cheese McGriddles with Egg Whites",16
+22,Sausage McGriddles,15
+23,"Sausage, Egg & Cheese McGriddles",15
+24,"Sausage, Egg & Cheese McGriddles with Egg Whites",15
+25,"Bacon, Egg & Cheese Bagel",7
+26,"Bacon, Egg & Cheese Bagel with Egg Whites",8
+27,"Steak, Egg & Cheese Bagel",7
+28,Big Breakfast (Regular Biscuit),3
+29,Big Breakfast (Large Biscuit),3
+30,Big Breakfast with Egg Whites (Regular Biscuit),3
+31,Big Breakfast with Egg Whites (Large Biscuit),4
+32,Big Breakfast with Hotcakes (Regular Biscuit),17
+33,Big Breakfast with Hotcakes (Large Biscuit),17
+34,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),17
+35,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),18
+36,Hotcakes,14
+37,Hotcakes and Sausage,14
+38,Sausage Burrito,2
+39,Hash Brown,0
+40,Cinnamon Melts,32
+41,Fruit & Maple Oatmeal,32
+42,Fruit & Maple Oatmeal without Brown Sugar,18
+43,Big Mac,9
+44,Quarter Pounder with Cheese,10
+45,Quarter Pounder with Bacon & Cheese,12
+46,Quarter Pounder with Bacon Habanero Ranch,10
+47,Quarter Pounder Deluxe,9
+48,Double Quarter Pounder with Cheese,10
+49,Hamburger,6
+50,Cheeseburger,7
+51,Double Cheeseburger,7
+52,Bacon Clubhouse Burger,14
+53,McDouble,7
+54,Bacon McDouble,7
+55,Daily Double,7
+56,Jalapeño Double,6
+57,McRib,11
+58,Premium Crispy Chicken Classic Sandwich,10
+59,Premium Grilled Chicken Classic Sandwich,8
+60,Premium Crispy Chicken Club Sandwich,11
+61,Premium Grilled Chicken Club Sandwich,9
+62,Premium Crispy Chicken Ranch BLT Sandwich,11
+63,Premium Grilled Chicken Ranch BLT Sandwich,9
+64,Bacon Clubhouse Crispy Chicken Sandwich,16
+65,Bacon Clubhouse Grilled Chicken Sandwich,14
+66,Southern Style Crispy Chicken Sandwich,7
+67,McChicken,5
+68,Bacon Cheddar McChicken,6
+69,Bacon Buffalo Ranch McChicken,6
+70,Buffalo Ranch McChicken,5
+71,Premium McWrap Chicken & Bacon (Crispy Chicken),7
+72,Premium McWrap Chicken & Bacon (Grilled Chicken),6
+73,Premium McWrap Chicken & Ranch (Crispy Chicken),8
+74,Premium McWrap Chicken & Ranch (Grilled Chicken),6
+75,Premium McWrap Southwest Chicken (Crispy Chicken),12
+76,Premium McWrap Southwest Chicken (Grilled Chicken),10
+77,Premium McWrap Chicken Sweet Chili (Crispy Chicken),14
+78,Premium McWrap Chicken Sweet Chili (Grilled Chicken),12
+79,Chicken McNuggets (4 piece),0
+80,Chicken McNuggets (6 piece),0
+81,Chicken McNuggets (10 piece),0
+82,Chicken McNuggets (20 piece),0
+83,Chicken McNuggets (40 piece),1
+84,Filet-O-Fish,5
+85,Premium Bacon Ranch Salad (without Chicken),4
+86,Premium Bacon Ranch Salad with Crispy Chicken,5
+87,Premium Bacon Ranch Salad with Grilled Chicken,4
+88,Premium Southwest Salad (without Chicken),6
+89,Premium Southwest Salad with Crispy Chicken,12
+90,Premium Southwest Salad with Grilled Chicken,10
+91,Chipotle BBQ Snack Wrap (Crispy Chicken),8
+92,Chipotle BBQ Snack Wrap (Grilled Chicken),7
+93,Honey Mustard Snack Wrap (Crispy Chicken),3
+94,Honey Mustard Snack Wrap (Grilled Chicken),2
+95,Ranch Snack Wrap (Crispy Chicken),3
+96,Ranch Snack Wrap (Grilled Chicken),2
+97,Small French Fries,0
+98,Medium French Fries,0
+99,Large French Fries,0
+100,Kids French Fries,0
+101,Side Salad,2
+102,Apple Slices,3
+103,Fruit 'n Yogurt Parfait,23
+104,Baked Apple Pie,13
+105,Chocolate Chip Cookie,15
+106,Oatmeal Raisin Cookie,13
+107,Kids Ice Cream Cone,6
+108,Hot Fudge Sundae,48
+109,Hot Caramel Sundae,43
+110,Strawberry Sundae,45
+111,Coca-Cola Classic (Small),39
+112,Coca-Cola Classic (Medium),55
+113,Coca-Cola Classic (Large),76
+114,Coca-Cola Classic (Child),28
+115,Diet Coke (Small),0
+116,Diet Coke (Medium),0
+117,Diet Coke (Large),0
+118,Diet Coke (Child),0
+119,Dr Pepper (Small),35
+120,Dr Pepper (Medium),51
+121,Dr Pepper (Large),70
+122,Dr Pepper (Child),26
+123,Diet Dr Pepper (Small),0
+124,Diet Dr Pepper (Medium),0
+125,Diet Dr Pepper (Large),0
+126,Diet Dr Pepper (Child),0
+127,Sprite (Small),37
+128,Sprite (Medium),54
+129,Sprite (Large),74
+130,Sprite (Child),27
+131,1% Low Fat Milk Jug,12
+132,Fat Free Chocolate Milk Jug,22
+133,Minute Maid 100% Apple Juice Box,19
+134,Minute Maid Orange Juice (Small),30
+135,Minute Maid Orange Juice (Medium),39
+136,Minute Maid Orange Juice (Large),58
+137,Dasani Water Bottle,0
+138,Iced Tea (Small),0
+139,Iced Tea (Medium),0
+140,Iced Tea (Large),0
+141,Iced Tea (Child),0
+142,Sweet Tea (Small),36
+143,Sweet Tea (Medium),45
+144,Sweet Tea (Large),54
+145,Sweet Tea (Child),27
+146,Coffee (Small),0
+147,Coffee (Medium),0
+148,Coffee (Large),0
+149,Latte (Small),12
+150,Latte (Medium),15
+151,Latte (Large),20
+152,Caramel Latte (Small),38
+153,Caramel Latte (Medium),48
+154,Caramel Latte (Large),59
+155,Hazelnut Latte (Small),38
+156,Hazelnut Latte (Medium),47
+157,Hazelnut Latte (Large),58
+158,French Vanilla Latte (Small),36
+159,French Vanilla Latte (Medium),45
+160,French Vanilla Latte (Large),56
+161,Latte with Sugar Free French Vanilla Syrup (Small),12
+162,Latte with Sugar Free French Vanilla Syrup (Medium),15
+163,Latte with Sugar Free French Vanilla Syrup (Large),20
+164,Nonfat Latte (Small),13
+165,Nonfat Latte (Medium),16
+166,Nonfat Latte (Large),21
+167,Nonfat Caramel Latte (Small),39
+168,Nonfat Caramel Latte (Medium),48
+169,Nonfat Caramel Latte (Large),59
+170,Nonfat Hazelnut Latte (Small),38
+171,Nonfat Hazelnut Latte (Medium),48
+172,Nonfat Hazelnut Latte (Large),59
+173,Nonfat French Vanilla Latte (Small),37
+174,Nonfat French Vanilla Latte (Medium),46
+175,Nonfat French Vanilla Latte (Large),56
+176,Nonfat Latte with Sugar Free French Vanilla Syrup (Small),13
+177,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),16
+178,Nonfat Latte with Sugar Free French Vanilla Syrup (Large),21
+179,Mocha (Small),42
+180,Mocha (Medium),53
+181,Mocha (Large),63
+182,Mocha with Nonfat Milk (Small),43
+183,Mocha with Nonfat Milk (Medium),53
+184,Mocha with Nonfat Milk (Large),64
+185,Caramel Mocha (Small),40
+186,Caramel Mocha (Medium),50
+187,Caramel Mocha (Large),60
+188,Nonfat Caramel Mocha (Small),41
+189,Nonfat Caramel Mocha (Medium),51
+190,Nonfat Caramel Mocha (Large),61
+191,Hot Chocolate (Small),45
+192,Hot Chocolate (Medium),56
+193,Hot Chocolate (Large),68
+194,Hot Chocolate with Nonfat Milk (Small),46
+195,Hot Chocolate with Nonfat Milk (Medium),57
+196,Hot Chocolate with Nonfat Milk (Large),69
+197,Regular Iced Coffee (Small),22
+198,Regular Iced Coffee (Medium),30
+199,Regular Iced Coffee (Large),45
+200,Caramel Iced Coffee (Small),21
+201,Caramel Iced Coffee (Medium),28
+202,Caramel Iced Coffee (Large),42
+203,Hazelnut Iced Coffee (Small),20
+204,Hazelnut Iced Coffee (Medium),28
+205,Hazelnut Iced Coffee (Large),41
+206,French Vanilla Iced Coffee (Small),19
+207,French Vanilla Iced Coffee (Medium),26
+208,French Vanilla Iced Coffee (Large),39
+209,Iced Coffee with Sugar Free French Vanilla Syrup (Small),1
+210,Iced Coffee with Sugar Free French Vanilla Syrup (Medium),2
+211,Iced Coffee with Sugar Free French Vanilla Syrup (Large),2
+212,Iced Mocha (Small),34
+213,Iced Mocha (Medium),43
+214,Iced Mocha (Large),62
+215,Iced Mocha with Nonfat Milk (Small),35
+216,Iced Mocha with Nonfat Milk (Medium),43
+217,Iced Mocha with Nonfat Milk (Large),62
+218,Iced Caramel Mocha (Small),33
+219,Iced Caramel Mocha (Medium),41
+220,Iced Caramel Mocha (Large),59
+221,Iced Nonfat Caramel Mocha (Small),33
+222,Iced Nonfat Caramel Mocha (Medium),41
+223,Iced Nonfat Caramel Mocha (Large),59
+224,Frappé Mocha (Small),57
+225,Frappé Mocha (Medium),71
+226,Frappé Mocha (Large),88
+227,Frappé Caramel (Small),57
+228,Frappé Caramel (Medium),71
+229,Frappé Caramel (Large),88
+230,Frappé Chocolate Chip (Small),67
+231,Frappé Chocolate Chip (Medium),81
+232,Frappé Chocolate Chip (Large),99
+233,Blueberry Pomegranate Smoothie (Small),44
+234,Blueberry Pomegranate Smoothie (Medium),54
+235,Blueberry Pomegranate Smoothie (Large),70
+236,Strawberry Banana Smoothie (Small),44
+237,Strawberry Banana Smoothie (Medium),54
+238,Strawberry Banana Smoothie (Large),70
+239,Mango Pineapple Smoothie (Small),46
+240,Mango Pineapple Smoothie (Medium),56
+241,Mango Pineapple Smoothie (Large),72
+242,Vanilla Shake (Small),63
+243,Vanilla Shake (Medium),81
+244,Vanilla Shake (Large),101
+245,Strawberry Shake (Small),79
+246,Strawberry Shake (Medium),100
+247,Strawberry Shake (Large),123
+248,Chocolate Shake (Small),77
+249,Chocolate Shake (Medium),97
+250,Chocolate Shake (Large),120
+251,Shamrock Shake (Medium),93
+252,Shamrock Shake (Large),115
+253,McFlurry with M&M’s Candies (Small),89
+254,McFlurry with M&M’s Candies (Medium),128
+255,McFlurry with M&M’s Candies (Snack),59
+256,McFlurry with Oreo Cookies (Small),64
+257,McFlurry with Oreo Cookies (Medium),85
+258,McFlurry with Oreo Cookies (Snack),43
+259,McFlurry with Reese's Peanut Butter Cups (Medium),103
+260,McFlurry with Reese's Peanut Butter Cups (Snack),51
+261,Brewed Coffee made with Short,0
+262,Brewed Coffee made with Tall,0
+263,Brewed Coffee made with Grande,0
+264,Brewed Coffee made with Venti,0
+265,Caffè Latte made with Short Nonfat Milk,9
+266,Caffè Latte made with 2% Milk,9
+267,Caffè Latte made with Soymilk,4
+268,Caffè Latte made with Tall Nonfat Milk,14
+269,Caffè Latte made with 2% Milk,14
+270,Caffè Latte made with Soymilk,6
+271,Caffè Latte made with Grande Nonfat Milk,18
+272,Caffè Latte made with 2% Milk,17
+273,Caffè Latte made with Soymilk,8
+274,Caffè Latte made with Venti Nonfat Milk,23
+275,Caffè Latte made with 2% Milk,22
+276,Caffè Latte made with Soymilk,11
+277,Caffè Mocha (Without Whipped Cream) made with Short Nonfat Milk,17
+278,Caffè Mocha (Without Whipped Cream) made with 2% Milk,17
+279,Caffè Mocha (Without Whipped Cream) made with Soymilk,13
+280,Caffè Mocha (Without Whipped Cream) made with Tall Nonfat Milk,27
+281,Caffè Mocha (Without Whipped Cream) made with 2% Milk,26
+282,Caffè Mocha (Without Whipped Cream) made with Soymilk,20
+283,Caffè Mocha (Without Whipped Cream) made with Grande Nonfat Milk,34
+284,Caffè Mocha (Without Whipped Cream) made with 2% Milk,34
+285,Caffè Mocha (Without Whipped Cream) made with Soymilk,26
+286,Caffè Mocha (Without Whipped Cream) made with Venti Nonfat Milk,44
+287,Caffè Mocha (Without Whipped Cream) made with 2% Milk,43
+288,Caffè Mocha (Without Whipped Cream) made with Soymilk,33
+289,Vanilla Latte (Or Other Flavoured Latte) made with Short Nonfat Milk,18
+290,Vanilla Latte (Or Other Flavoured Latte) made with 2% Milk,17
+291,Vanilla Latte (Or Other Flavoured Latte) made with Soymilk,13
+292,Vanilla Latte (Or Other Flavoured Latte) made with Tall Nonfat Milk,27
+293,Vanilla Latte (Or Other Flavoured Latte) made with 2% Milk,27
+294,Vanilla Latte (Or Other Flavoured Latte) made with Soymilk,20
+295,Vanilla Latte (Or Other Flavoured Latte) made with Grande Nonfat Milk,35
+296,Vanilla Latte (Or Other Flavoured Latte) made with 2% Milk,35
+297,Vanilla Latte (Or Other Flavoured Latte) made with Soymilk,26
+298,Vanilla Latte (Or Other Flavoured Latte) made with Venti Nonfat Milk,45
+299,Vanilla Latte (Or Other Flavoured Latte) made with 2% Milk,44
+300,Vanilla Latte (Or Other Flavoured Latte) made with Soymilk,33
+301,Caffè Americano made with Short,0
+302,Caffè Americano made with Tall,0
+303,Caffè Americano made with Grande,0
+304,Caffè Americano made with Venti,0
+305,Cappuccino made with Short Nonfat Milk,7
+306,Cappuccino made with 2% Milk,7
+307,Cappuccino made with Soymilk,3
+308,Cappuccino made with Tall Nonfat Milk,8
+309,Cappuccino made with 2% Milk,8
+310,Cappuccino made with Soymilk,4
+311,Cappuccino made with Grande Nonfat Milk,10
+312,Cappuccino made with 2% Milk,10
+313,Cappuccino made with Soymilk,5
+314,Cappuccino made with Venti Nonfat Milk,14
+315,Cappuccino made with 2% Milk,14
+316,Cappuccino made with Soymilk,7
+317,Espresso made with Solo,0
+318,Espresso made with Doppio,0
+319,Skinny Latte (Any Flavour) made with Short Nonfat Milk,8
+320,Skinny Latte (Any Flavour) made with Tall Nonfat Milk,13
+321,Skinny Latte (Any Flavour) made with Grande Nonfat Milk,16
+322,Skinny Latte (Any Flavour) made with Venti Nonfat Milk,21
+323,Caramel Macchiato made with Short Nonfat Milk,15
+324,Caramel Macchiato made with 2% Milk,15
+325,Caramel Macchiato made with Soymilk,11
+326,Caramel Macchiato made with Tall Nonfat Milk,24
+327,Caramel Macchiato made with 2% Milk,23
+328,Caramel Macchiato made with Soymilk,17
+329,Caramel Macchiato made with Grande Nonfat Milk,32
+330,Caramel Macchiato made with 2% Milk,32
+331,Caramel Macchiato made with Soymilk,24
+332,Caramel Macchiato made with Venti Nonfat Milk,41
+333,Caramel Macchiato made with 2% Milk,40
+334,Caramel Macchiato made with Soymilk,31
+335,White Chocolate Mocha (Without Whipped Cream) made with Short Nonfat Milk,29
+336,White Chocolate Mocha (Without Whipped Cream) made with 2% Milk,29
+337,White Chocolate Mocha (Without Whipped Cream) made with Soymilk,25
+338,White Chocolate Mocha (Without Whipped Cream) made with Tall Nonfat Milk,45
+339,White Chocolate Mocha (Without Whipped Cream) made with 2% Milk,44
+340,White Chocolate Mocha (Without Whipped Cream) made with Soymilk,39
+341,White Chocolate Mocha (Without Whipped Cream) made with Grande Nonfat Milk,58
+342,White Chocolate Mocha (Without Whipped Cream) made with 2% Milk,58
+343,White Chocolate Mocha (Without Whipped Cream) made with Soymilk,51
+344,White Chocolate Mocha (Without Whipped Cream) made with Venti Nonfat Milk,74
+345,White Chocolate Mocha (Without Whipped Cream) made with 2% Milk,74
+346,White Chocolate Mocha (Without Whipped Cream) made with Soymilk,64
+347,Hot Chocolate (Without Whipped Cream) made with Short Nonfat Milk,23
+348,Hot Chocolate (Without Whipped Cream) made with 2% Milk,22
+349,Hot Chocolate (Without Whipped Cream) made with Soymilk,18
+350,Hot Chocolate (Without Whipped Cream) made with Tall Nonfat Milk,32
+351,Hot Chocolate (Without Whipped Cream) made with 2% Milk,32
+352,Hot Chocolate (Without Whipped Cream) made with Soymilk,25
+353,Hot Chocolate (Without Whipped Cream) made with Grande Nonfat Milk,41
+354,Hot Chocolate (Without Whipped Cream) made with 2% Milk,41
+355,Hot Chocolate (Without Whipped Cream) made with Soymilk,32
+356,Hot Chocolate (Without Whipped Cream) made with Venti Nonfat Milk,55
+357,Hot Chocolate (Without Whipped Cream) made with 2% Milk,54
+358,Hot Chocolate (Without Whipped Cream) made with Soymilk,44
+359,Caramel Apple Spice (Without Whipped Cream) made with Short,33
+360,Caramel Apple Spice (Without Whipped Cream) made with Tall,49
+361,Caramel Apple Spice (Without Whipped Cream) made with Grande,65
+362,Caramel Apple Spice (Without Whipped Cream) made with Venti,83
+363,Tazo® Tea made with Short,0
+364,Tazo® Tea made with Tall,0
+365,Tazo® Tea made with Grande,0
+366,Tazo® Tea made with Venti,0
+367,Tazo® Chai Tea Latte made with Short Nonfat Milk,21
+368,Tazo® Chai Tea Latte made with 2% Milk,21
+369,Tazo® Chai Tea Latte made with Soymilk,18
+370,Tazo® Chai Tea Latte made with Tall Nonfat Milk,32
+371,Tazo® Chai Tea Latte made with 2% Milk,32
+372,Tazo® Chai Tea Latte made with Soymilk,28
+373,Tazo® Chai Tea Latte made with Grande Nonfat Milk,43
+374,Tazo® Chai Tea Latte made with 2% Milk,42
+375,Tazo® Chai Tea Latte made with Soymilk,37
+376,Tazo® Chai Tea Latte made with Venti Nonfat Milk,54
+377,Tazo® Chai Tea Latte made with 2% Milk,53
+378,Tazo® Chai Tea Latte made with Soymilk,46
+379,Tazo® Green Tea Latte made with Short Nonfat Milk,25
+380,Tazo® Green Tea Latte made with 2% Milk,25
+381,Tazo® Green Tea Latte made with Soymilk,20
+382,Tazo® Green Tea Latte made with Tall Nonfat Milk,41
+383,Tazo® Green Tea Latte made with 2% Milk,40
+384,Tazo® Green Tea Latte made with Soymilk,33
+385,Tazo® Green Tea Latte made with Grande Nonfat Milk,56
+386,Tazo® Green Tea Latte made with 2% Milk,55
+387,Tazo® Green Tea Latte made with Soymilk,46
+388,Tazo® Green Tea Latte made with Venti Nonfat Milk,71
+389,Tazo® Green Tea Latte made with 2% Milk,71
+390,Tazo® Green Tea Latte made with Soymilk,58
+391,Tazo® Full-Leaf Tea Latte made with Short Nonfat Milk,16
+392,Tazo® Full-Leaf Tea Latte made with 2% Milk,15
+393,Tazo® Full-Leaf Tea Latte made with Soymilk,13
+394,Tazo® Full-Leaf Tea Latte made with Tall Nonfat Milk,23
+395,Tazo® Full-Leaf Tea Latte made with 2% Milk,23
+396,Tazo® Full-Leaf Tea Latte made with Soymilk,19
+397,Tazo® Full-Leaf Tea Latte made with Grande Nonfat Milk,31
+398,Tazo® Full-Leaf Tea Latte made with 2% Milk,30
+399,Tazo® Full-Leaf Tea Latte made with Soymilk,25
+400,Tazo® Full-Leaf Tea Latte made with Venti Nonfat Milk,39
+401,Tazo® Full-Leaf Tea Latte made with 2% Milk,38
+402,Tazo® Full-Leaf Tea Latte made with Soymilk,32
+403,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Short Nonfat Milk,16
+404,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with 2% Milk,15
+405,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Soymilk,13
+406,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Tall Nonfat Milk,23
+407,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with 2% Milk,23
+408,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Soymilk,19
+409,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Grande Nonfat Milk,31
+410,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with 2% Milk,30
+411,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Soymilk,25
+412,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Venti Nonfat Milk,39
+413,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with 2% Milk,38
+414,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos) made with Soymilk,32
+415,Iced Brewed Coffee (With Classic Syrup) made with Tall,15
+416,Iced Brewed Coffee (With Classic Syrup) made with Grande,21
+417,Iced Brewed Coffee (With Classic Syrup) made with Venti,31
+418,Iced Brewed Coffee (With Milk & Classic Syrup) made with Tall Nonfat Milk,18
+419,Iced Brewed Coffee (With Milk & Classic Syrup) made with 2% Milk,18
+420,Iced Brewed Coffee (With Milk & Classic Syrup) made with Soymilk,17
+421,Iced Brewed Coffee (With Milk & Classic Syrup) made with Grande Nonfat Milk,24
+422,Iced Brewed Coffee (With Milk & Classic Syrup) made with 2% Milk,24
+423,Iced Brewed Coffee (With Milk & Classic Syrup) made with Soymilk,22
+424,Iced Brewed Coffee (With Milk & Classic Syrup) made with Venti Nonfat Milk,36
+425,Iced Brewed Coffee (With Milk & Classic Syrup) made with 2% Milk,36
+426,Iced Brewed Coffee (With Milk & Classic Syrup) made with Soymilk,33
+427,Shaken Iced Tazo® Tea (With Classic Syrup) made with Tall,15
+428,Shaken Iced Tazo® Tea (With Classic Syrup) made with Grande,21
+429,Shaken Iced Tazo® Tea (With Classic Syrup) made with Venti,31
+430,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup) made with Tall,24
+431,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup) made with Grande,33
+432,Shaken Iced Tazo® Tea Lemonade (With Classic Syrup) made with Venti,49
+433,Banana Chocolate Smoothie made with Grande Nonfat Milk,34
+434,Banana Chocolate Smoothie made with 2% Milk,34
+435,Banana Chocolate Smoothie made with Soymilk,31
+436,Orange Mango Banana Smoothie made with Grande Nonfat Milk,37
+437,Orange Mango Banana Smoothie made with 2% Milk,37
+438,Orange Mango Banana Smoothie made with Soymilk,36
+439,Strawberry Banana Smoothie made with Grande Nonfat Milk,41
+440,Strawberry Banana Smoothie made with 2% Milk,41
+441,Strawberry Banana Smoothie made with Soymilk,40
+442,Coffee made with Tall Nonfat Milk,36
+443,Coffee made with Whole Milk,36
+444,Coffee made with Soymilk,34
+445,Coffee made with Grande Nonfat Milk,50
+446,Coffee made with Whole Milk,50
+447,Coffee made with Soymilk,47
+448,Coffee made with Venti Nonfat Milk,69
+449,Coffee made with Whole Milk,69
+450,Coffee made with Soymilk,66
+451,Mocha (Without Whipped Cream) made with Tall Nonfat Milk,40
+452,Mocha (Without Whipped Cream) made with Whole Milk,40
+453,Mocha (Without Whipped Cream) made with Soymilk,38
+454,Mocha (Without Whipped Cream) made with Grande Nonfat Milk,58
+455,Mocha (Without Whipped Cream) made with Whole Milk,58
+456,Mocha (Without Whipped Cream) made with Soymilk,55
+457,Mocha (Without Whipped Cream) made with Venti Nonfat Milk,76
+458,Mocha (Without Whipped Cream) made with Whole Milk,76
+459,Mocha (Without Whipped Cream) made with Soymilk,73
+460,Caramel (Without Whipped Cream) made with Tall Nonfat Milk,41
+461,Caramel (Without Whipped Cream) made with Whole Milk,41
+462,Caramel (Without Whipped Cream) made with Soymilk,39
+463,Caramel (Without Whipped Cream) made with Grande Nonfat Milk,59
+464,Caramel (Without Whipped Cream) made with Whole Milk,59
+465,Caramel (Without Whipped Cream) made with Soymilk,56
+466,Caramel (Without Whipped Cream) made with Venti Nonfat Milk,77
+467,Caramel (Without Whipped Cream) made with Whole Milk,77
+468,Caramel (Without Whipped Cream) made with Soymilk,73
+469,Java Chip (Without Whipped Cream) made with Tall Nonfat Milk,44
+470,Java Chip (Without Whipped Cream) made with Whole Milk,44
+471,Java Chip (Without Whipped Cream) made with Soymilk,42
+472,Java Chip (Without Whipped Cream) made with Grande Nonfat Milk,62
+473,Java Chip (Without Whipped Cream) made with Whole Milk,62
+474,Java Chip (Without Whipped Cream) made with Soymilk,60
+475,Java Chip (Without Whipped Cream) made with Venti Nonfat Milk,84
+476,Java Chip (Without Whipped Cream) made with Whole Milk,84
+477,Java Chip (Without Whipped Cream) made with Soymilk,80
+478,Coffee made with Tall Nonfat Milk,19
+479,Coffee made with Grande Nonfat Milk,26
+480,Coffee made with Venti Nonfat Milk,33
+481,Mocha made with Tall Nonfat Milk,23
+482,Mocha made with Grande Nonfat Milk,30
+483,Mocha made with Venti Nonfat Milk,42
+484,Caramel made with Tall Nonfat Milk,23
+485,Caramel made with Grande Nonfat Milk,32
+486,Caramel made with Venti Nonfat Milk,43
+487,Java Chip made with Tall Nonfat Milk,27
+488,Java Chip made with Grande Nonfat Milk,39
+489,Java Chip made with Venti Nonfat Milk,52
+490,Strawberries & Crème (Without Whipped Cream) made with Tall Nonfat Milk,38
+491,Strawberries & Crème (Without Whipped Cream) made with Whole Milk,37
+492,Strawberries & Crème (Without Whipped Cream) made with Soymilk,35
+493,Strawberries & Crème (Without Whipped Cream) made with Grande Nonfat Milk,52
+494,Strawberries & Crème (Without Whipped Cream) made with Whole Milk,52
+495,Strawberries & Crème (Without Whipped Cream) made with Soymilk,49
+496,Strawberries & Crème (Without Whipped Cream) made with Venti Nonfat Milk,69
+497,Strawberries & Crème (Without Whipped Cream) made with Whole Milk,68
+498,Strawberries & Crème (Without Whipped Cream) made with Soymilk,64
+499,Vanilla Bean (Without Whipped Cream) made with Tall Nonfat Milk,38
+500,Vanilla Bean (Without Whipped Cream) made with Whole Milk,38
+501,Vanilla Bean (Without Whipped Cream) made with Soymilk,35
+502,Vanilla Bean (Without Whipped Cream) made with Grande Nonfat Milk,55
+503,Mcdonalds Artisan Grilled Chicken Sandwich,11
+504,Mcdonalds Single Bacon Smokehouse Burger,18
+505,Mcdonalds Double Bacon Smokehouse Burger,18
+506,Mcdonalds Grilled Bacon Smokehouse Chicken Sandwich,18
+507,Mcdonalds Crispy Bacon Smokehouse Chicken Sandwich,18
+508,Mcdonalds Big Mac,9
+509,Mcdonalds Cheeseburger,7
+510,Mcdonalds Classic Chicken Sandwich,6
+511,Mcdonalds Double Cheeseburger,7
+512,Mcdonalds Double Quarter Pounder® with Cheese,10
+513,Mcdonalds Filet-O-Fish®,5
+514,Mcdonalds Garlic White Cheddar Burger,11
+515,Mcdonalds Grilled Garlic White Cheddar Chicken Sandwich,11
+516,Mcdonalds Crispy Garlic White Cheddar Chicken Sandwich,11
+517,Mcdonalds Hamburger,6
+518,Mcdonalds Lobster Roll,3
+519,Mcdonalds Maple Bacon Dijon 1/4 lb Burger,10
+520,Mcdonalds Grilled Maple Bacon Dijon Chicken Sandwich,14
+521,Mcdonalds Crispy Maple Bacon Dijon Chicken Sandwich,14
+522,Mcdonalds McChicken,5
+523,Mcdonalds McDouble,7
+524,Mcdonalds McRib,12
+525,Mcdonalds Pico Guacamole 1/4 lb Burger,7
+526,Mcdonalds Grilled Pico Guacamole Chicken Sandwich,12
+527,Mcdonalds Crispy Pico Guacamole Chicken Sandwich,12
+528,Mcdonalds Premium Buttermilk Crispy Chicken Deluxe Sandwich,11
+529,Mcdonalds Premium Crispy Chicken Deluxe Sandwich,13
+530,Mcdonalds Quarter Pounder® with Cheese,10
+531,Mcdonalds Signature Sriracha Burger,13
+532,Mcdonalds Grilled Signature Sriracha Chicken Sandwich,14
+533,Mcdonalds Crispy Signature Sriracha Chicken Sandwich,13
+534,Mcdonalds Sweet BBQ Bacon 1/4 lb Burger,14
+535,Mcdonalds Grilled Sweet BBQ Bacon Chicken Sandwich,18
+536,Mcdonalds Crispy Sweet BBQ Bacon Chicken Sandwich,18
+537,Mcdonalds 3 piece Buttermilk Crispy Chicken Tenders,0
+538,Mcdonalds 4 piece Buttermilk Crispy Chicken Tenders,1
+539,Mcdonalds 6 piece Buttermilk Crispy Chicken Tenders,1
+540,Mcdonalds 10 piece Buttermilk Crispy Chicken Tenders,4
+541,Mcdonalds 12 piece Buttermilk Crispy Chicken Tenders,2
+542,Mcdonalds 20 piece Buttermilk Crispy Chicken Tenders,3
+543,Mcdonalds 4 Piece Chicken McNuggets,0
+544,Mcdonalds 6 Piece Chicken McNuggets,0
+545,Mcdonalds 10 Piece Chicken McNuggets,0
+546,Mcdonalds 20 Piece Chicken McNuggets,0
+547,Mcdonalds 40 piece Chicken McNuggets,1
+548,Mcdonalds 4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,35
+549,Mcdonalds 6 piece Sweet N' Spicy Honey BBQ Glazed Tenders,52
+550,Mcdonalds 10 piece Sweet N' Spicy Honey BBQ Glazed Tenders,87
+551,Mcdonalds Premium Asian Salad w/o Chicken,7
+552,Mcdonalds Premium Asian Salad w/ Grilled Chicken,10
+553,Mcdonalds Premium Asian Salad w/ Crispy Chicken,4
+554,Mcdonalds Premium Bacon Ranch Salad w/o Chicken,3
+555,Mcdonalds Premium Bacon Ranch Salad w/ Grilled Chicken,4
+556,Mcdonalds Premium Bacon Ranch Salad w/ Crispy Chicken,4
+557,Mcdonalds Premium Southwest Salad w/o Chicken,9
+558,Mcdonalds Premium Southwest Salad w/ Grilled Chicken,9
+559,Mcdonalds Premium Southwest Salad w/ Crispy Chicken,9
+560,Chick Fil-A Chargrilled Chicken Club Sandwich,7
+561,Chick Fil-A Chargrilled Chicken Sandwich,7
+562,Chick Fil-A Chick-n-Slider,4
+563,Chick Fil-A 1 Piece Chick-n-Strips,1
+564,Chick Fil-A 2 Piece Chick-n-Strips,1
+565,Chick Fil-A 3 Piece Chick-n-Strips,3
+566,Chick Fil-A 4 piece Chick-n-Strips,4
+567,Chick Fil-A Chicken Deluxe,6
+568,Chick Fil-A 4 piece Chicken Nuggets,0
+569,Chick Fil-A 6 piece Chicken Nuggets,0
+570,Chick Fil-A 8 piece Chicken Nuggets,1
+571,Chick Fil-A 12 piece Chicken Nuggets,1
+572,Chick Fil-A 30 piece Chicken Nuggets,1
+573,Chick Fil-A Chicken Salad Sandwich,12
+574,Chick Fil-A Chicken Sandwich,5
+575,Chick Fil-A 4 Piece Grilled Chicken Nuggets,0
+576,Chick Fil-A 6 Piece Grilled Chicken Nuggets,0
+577,Chick Fil-A 8 piece Grilled Chicken Nuggets,0
+578,Chick Fil-A 12 Piece Grilled Chicken Nuggets,1
+579,Chick Fil-A Spicy Grilled Chicken Sub Sandwich,9
+580,Chick Fil-A Regular Grilled Chicken Sub Sandwich,10
+581,Chick Fil-A Smokehouse BBQ Bacon Sandwich,10
+582,Chick Fil-A Spicy Chicken Sandwich,5
+583,Chick Fil-A Spicy Deluxe,6
+584,Chick Fil-A Chargrilled Chicken Cool Wrap,3
+585,Chick Fil-A Chicken Enchiladas Meal Kit,8
+586,Chick Fil-A Chicken Parmesan Meal Kit,7
+587,Sonic Hatch Green Chile Cheeseburger,7
+588,Sonic Jalapeno Burger,6
+589,Sonic Jr. Burger,6
+590,Sonic Jr. Chili Cheeseburger,4
+591,Sonic Jr. Deluxe Burger,4
+592,Sonic Jr. Deluxe Cheeseburger,4
+593,Sonic Jr. Double Cheeseburger,7
+594,Sonic Sonic Bacon Cheeseburger (w/mayo),7
+595,Sonic Sonic Burger W/ Mustard,7
+596,Sonic Sonic Burger W/ Ketchup,10
+597,Sonic Sonic Burger W/ Mayonnaise,7
+598,Sonic Sonic Cheeseburger W/ Mustard,7
+599,Sonic Sonic Cheeseburger W/ Ketchup,10
+600,Sonic Sonic Cheeseburger W/ Mayonnaise,7
+601,Sonic Super Sonic Bacon Double Cheeseburger (w/mayo),7
+602,Sonic Super Sonic Double Cheeseburger W/ Mustard,8
+603,Sonic Super Sonic Double Cheeseburger W/ Ketchup,11
+604,Sonic Super Sonic Double Cheeseburger W/ Mayo,8
+605,Sonic Super Sonic Jalapeno Double Cheeseburger,7
+606,Sonic Veggie Burger W/ Ketchup,11
+607,Sonic Veggie Burger With Mustard,8
+608,Sonic Veggie Burger W/ Mustard,8
+609,Sonic Grilled Asiago Caesar Chicken Club Sandwich,8
+610,Sonic Crispy Asiago Caesar Chicken Club Sandwich,7
+611,Sonic Grilled Chicken Sandwich,6
+612,Sonic Crispy Chicken Sandwich,6
+613,Sonic Chicken Strip Sandwich,4
+614,Sonic 3 Piece Crispy Chicken Tender Dinner,0
+615,Sonic 5 Piece Crispy Chicken Tender Dinner,0
+616,Sonic Deluxe Ultimate Chicken Sandwich,12
+617,Sonic Buffalo Dunked Ultimate Chicken Sandwich,12
+618,Sonic Garlic Parmesan Dunked Ultimate Chicken Sandwich,10
+619,Sonic Small Jumbo Popcorn Chicken,1
+620,Sonic Large Jumbo Popcorn Chicken,2
+621,Sonic Small Spicy Jumbo Popcorn Chicken,0
+622,Sonic Large Spicy Jumbo Popcorn Chicken,0
+623,Sonic 3 Piece Super Crunch Chicken Strip Dinner,9
+624,Sonic 4 Piece Super Crunch Chicken Strip Dinner,9
+625,Sonic 5 Piece Super Crunch Chicken Strip Dinner,9
+626,Sonic 3 Piece Super Crunch Chicken Strips,0
+627,Sonic 4 Piece Super Crunch Chicken Strips,1
+628,Sonic 5 Piece Super Crunch Chicken Strips,1
+629,Sonic Traditional Ultimate Chicken Sandwich,11
+630,Sonic Ultimate Chicken Club,12
+631,"Sonic All Beef All-american Style Dog – 6""",15
+632,"Sonic All Beef Chicago Dog – 6""",17
+633,"Sonic All Beef Chili Cheese Coney – 6""",4
+634,"Sonic All Beef New York Dog – 6""",4
+635,"Sonic All Beef Regular Hot Dog – 6""",3
+636,Sonic Cheesy Bacon Pretzel Dog - 6 In.,7
+637,Sonic Corn Dog,4
+638,Sonic Footlong Quarter Pound Coney,9
+639,Sonic The Original Pretzel Dog,2
+640,Arbys Arby's Melt,5
+641,Arbys Arby-Q Sandwich,23
+642,Arbys Beef 'n Cheddar Classic,9
+643,Arbys Beef 'n Cheddar Mid,9
+644,Arbys Bourbon BBQ Brisket Sandwich,15
+645,Arbys Bourbon BBQ Chicken Sandwich,16
+646,Arbys Bourbon BBQ Steak Sandwich,16
+647,Arbys Buttermilk Buffalo Chicken Sandwich,6
+648,Arbys Buttermilk Chicken Bacon & Swiss,9
+649,Arbys Buttermilk Chicken Cordon Bleu Sandwich,7
+650,Arbys Buttermilk Crispy Chicken Sandwich,6
+651,Arbys Classic French Dip & Swiss/Au Jus,3
+652,Arbys Classic Roast Beef,5
+653,Arbys Double Roast Beef,5
+654,Arbys Fire-Roasted Philly Steak,4
+655,Arbys Grand Turkey Club,9
+656,Arbys Greek Gyro,6
+657,Arbys Half Pound Beef 'n Cheddar Sandwich,9
+658,Arbys Half Pound French Dip & Swiss,3
+659,Arbys Half Pound Roast Beef Sandwich,5
+660,Arbys Ham & Swiss Melt,6
+661,Arbys Loaded Italian Sandwich,7
+662,Arbys Pecan Chicken Salad Flatbread,9
+663,Arbys Pecan Chicken Salad Sandwich,20
+664,Arbys 2 piece Prime-Cut Chicken Tenders,0
+665,Arbys 3 piece Prime-Cut Chicken Tenders,0
+666,Arbys 5 piece Prime-Cut Chicken Tenders,0
+667,Arbys Reuben Sandwich,5
+668,Arbys Roast Beef Gyro,5
+669,Arbys Roast Turkey & Swiss Sandwich,15
+670,Arbys Roast Turkey & Swiss Wrap,6
+671,"Arbys Roast Turkey,5
+Arbys,Roast Turkey",4
+672,Arbys Smoke Mountain w/ Beef Short Rib,17
+673,Arbys Smokehouse Beef Short Rib Sandwich,14
+674,Arbys Smokehouse Brisket,7
+675,Arbys Super Roast Beef,11
+676,Arbys Three Cheese Steak Sandwich,9
+677,Arbys Triple Decker Sandwich,19
+678,Arbys Turkey Avocado Club,16
+679,Arbys Turkey Gyro,5
+680,Arbys Ultimate BLT,19
+681,Arbys Buffalo Chicken Slider,2
+682,Arbys Chicken Tender 'n Cheese Slider,1
+683,Arbys Corned Beef 'n Cheese Slider,1
+684,Arbys Ham 'n Cheese Slider,2
+685,Arbys Jalapeno Roast Beef 'n Cheese Slider,1
+686,Arbys Pizza Slider,2
+687,Arbys Roast Beef 'n Cheese Slider,1
+688,Arbys Turkey 'n Cheese Slider,2
+689,Arbys Chopped Side Salad,2
+690,Arbys Crispy Chicken Farmhouse Salad,4
+691,Arbys Greek Gyro Salad,4
+692,Arbys Roast Turkey Farmhouse Salad,5
+693,Arbys Super Greek Salad,7
+694,Burger King American Brewhouse King,7
+695,Burger King Bacon & Swiss Sourdough King,8
+696,Burger King Bacon Cheeseburger,7
+697,Burger King Bacon Cheeseburger Deluxe,7
+698,Burger King Bacon King,10
+699,Burger King Bacon King Jr,16
+700,Burger King BBQ Bacon King,13
+701,Burger King Cheeseburger,6
+702,Burger King Double Bacon Cheeseburger,8
+703,Burger King Double Cheeseburger,6
+704,Burger King Double Hamburger,6
+705,Burger King Double Quarter Pound King,11
+706,Burger King Extra Long Cheeseburger,9
+707,Burger King Farmhouse King,15
+708,Burger King Hamburger,6
+709,Burger King Homestyle Cheeseburger,10
+710,Burger King Jalapeno King Sandwich,7
+711,Burger King Mushroom & Swiss King,8
+712,Burger King Rodeo Burger,9
+713,Burger King Rodeo King,14
+714,Burger King Sourdough King Single,12
+715,Burger King Sourdough King Double,12
+716,Burger King Steakhouse King,13
+717,Burger King Bacon & Cheese Whopper,9
+718,Burger King DOUBLE WHOPPER w/o Cheese,11
+719,Burger King DOUBLE WHOPPER w/ Cheese,11
+720,Burger King WHOPPER w/o Cheese,11
+721,Burger King WHOPPER w/ Cheese,11
+722,Burger King WHOPPER JR. w/o Cheese,6
+723,Burger King WHOPPER JR. w/ Cheese,6
+724,Burger King Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,6
+831,Subway 6 inch Meatball Marinara,12
+725,Burger King Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,7
+726,Burger King Chicken BLT Salad w/ Grilled Chicken,5
+727,Burger King Chicken BLT Salad w/ Crispy Chicken,8
+728,Burger King Chicken Caesar Salad w/ Grilled Chicken,6
+729,Burger King Chicken Caesar Salad w/ Crispy Chicken,8
+730,"Burger King Chicken,4
+Burger King,Chicken",5
+731,"Burger King Garden Grilled Chicken Salad w/ Grilled Chicken,2
+Burger King,Garden Grilled Chicken Salad w/ Crispy Chicken",5
+732,Burger King Side Caesar Salad with dressing,3
+733,Burger King Side Garden Salad and Avocado Ranch Dressing,3
+734,Burger King Bacon Cheddar Ranch Crispy Chicken Sandwich,9
+735,Burger King BBQ Bacon Crispy Chicken Sandwich,13
+736,Burger King Big Fish Sandwich,7
+737,Burger King BK VEGGIE Burger,8
+738,Burger King Chicken Burger,10
+739,Burger King Chicken Cordon Bleu Sandwich,16
+740,Burger King Chicken Fries,1
+741,Burger King 4 Piece Chicken Nuggets,0
+742,Burger King 6 Piece Chicken Nuggets,0
+743,Burger King 20 Piece Chicken Nuggets,0
+744,Burger King Chicken Nuggets (10pc),0
+745,Burger King Chicken Parmesan Sandwich,9
+746,Burger King Crispy Buffalo Chicken Melt,8
+747,Burger King Crispy Chicken Jr.,4
+748,Burger King Crispy Chicken Sandwich,7
+749,Burger King Grilled Chicken Sandwich,6
+750,Burger King Grilled Chili Cheese Dog,5
+751,Burger King Grilled Hot Dog,10
+752,Burger King Jalapeno Chicken Fries,1
+753,Burger King Original Chicken Sandwich,4
+754,Burger King Pretzel Chicken Fries,1
+755,Burger King Rodeo Crispy Chicken Sandwich,14
+756,Burger King Sourdough Chicken Club,7
+757,Burger King 4 Piece Spicy Chicken Nuggets,0
+758,Burger King Spicy Chicken Nuggets,0
+759,Burger King Spicy Crispy Chicken Jr.,5
+760,Burger King Spicy Crispy Chicken Sandwich,8
+761,Burger King Spicy Crispy Jalapeno Chicken Sandwich,8
+762,Dairy Queen 1/2 lb. FlameThrower® GrillBurger,9
+763,Dairy Queen 1/2 lb. GrillBurger with Cheese,13
+764,Dairy Queen 1/4 lb. Bacon Cheese GrillBurger,13
+765,Dairy Queen 1/4 lb. GrillBurger with Cheese,13
+766,Dairy Queen 1/4 lb. Mushroom Swiss GrillBurger,8
+767,Dairy Queen Original Cheeseburger,8
+768,Dairy Queen Original Double Cheeseburger,9
+769,Dairy Queen 4 Piece Chicken Strip Basket w/ Country Gravy,4
+770,Dairy Queen 6 Piece Chicken Strip Basket w/ Country Gravy,4
+771,Dairy Queen Bacon Cheese Dog,3
+772,Dairy Queen Cheese Dog,3
+773,Dairy Queen Chili Cheese Dog,3
+774,Dairy Queen Chili Dog,5
+775,Dairy Queen Hot Dog,4
+776,Dairy Queen Relish Dog,6
+777,Dairy Queen Barbecue Pork Sandwich,9
+778,Dairy Queen Breaded Mushrooms,1
+779,Dairy Queen Regular Cheese Curds,0
+780,Dairy Queen Large Cheese Curds,30
+781,Dairy Queen Chili Cheese Mega Dog,6
+782,Dairy Queen Corn Dog,7
+783,Dairy Queen Crispy Fish Sandwich,7
+784,Dairy Queen Deluxe Cheeseburger,9
+785,Dairy Queen Deluxe Double Cheeseburger,9
+786,Dairy Queen Deluxe Double Hamburger,9
+787,Dairy Queen Deluxe Hamburger,9
+788,Dairy Queen DQ Ultimate® Burger,7
+789,Dairy Queen Pork Tenderloin Sandwich,6
+790,Dairy Queen Steak Finger Basket,2
+791,Dairy Queen 3 chicken strips Chicken Strips,0
+792,Dairy Queen Chicken Bacon Ranch Sandwich,3
+793,Dairy Queen Chicken Mozzarella Sandwich,3
+794,Dairy Queen Crispy Chicken BLT Salad,6
+795,Dairy Queen Crispy Chicken Garden Greens Salad,6
+796,Dairy Queen Crispy Chicken Sandwich,8
+797,Dairy Queen Crispy Chicken Wrap,1
+798,Dairy Queen Grilled Chicken BLT Salad,6
+799,Dairy Queen Grilled Chicken Garden Greens Salad,6
+800,Dairy Queen Grilled Chicken Sandwich,5
+801,Dairy Queen Grilled Chicken Wrap,1
+802,Dairy Queen Side Salad,3
+803,Dairy Queen Turkey BLT Sandwich,3
+804,Subway 6 inch B.L.T.,6
+805,Subway Footlong B.L.T.,12
+806,Subway 6 inch BBQ Rib Sandwich,8
+807,Subway Footlong BBQ Rib Sandwich,16
+808,Subway 6 inch Big Hot Pastrami,7
+809,Subway Footlong Big Hot Pastrami,14
+810,Subway 6 inch Big Philly Cheesesteak,8
+811,Subway Footlong Big Philly Cheesesteak,16
+812,Subway Kids Mini Sub Black Forest Ham,5
+813,Subway 6 inch Black Forest Ham,8
+814,Subway Footlong Black Forest Ham,16
+815,Subway 6 inch Carved Turkey,7
+816,Subway Footlong Carved Turkey,14
+817,Subway 6 inch Carved Turkey & Bacon w/ Cheese,8
+818,Subway Footlong Carved Turkey & Bacon w/ Cheese,16
+819,Subway 6 inch Chicken & Bacon Ranch Melt,8
+820,Subway Footlong Chicken & Bacon Ranch Melt,16
+821,Subway 6 inch Chicken Pizziola Melt,9
+822,Subway Footlong Chicken Pizziola Melt,18
+823,Subway 6 inch Cold Cut Combo,7
+824,Subway Footlong Cold Cut Combo,14
+825,Subway 6 inchCorned Beef Reuben,12
+826,Subway Footlong Corned Beef Reuben,24
+827,Subway 6 inch Italian B.M.T.,8
+828,Subway Footlong Italian B.M.T.,16
+829,Subway 6 inch Italian Hero,9
+830,Subway Footlong Italian Hero,18
+832,Subway Footlong Meatball Marinara,24
+833,Subway 6 inch Oven Roasted Chicken,8
+834,Subway Footlong Oven Roasted Chicken,16
+835,Subway Kids Mini Sub Roast Beef,5
+836,Subway 6 inch Roast Beef,7
+837,Subway Footlong Roast Beef,14
+838,Subway 6 inch Rotisserie Style Chicken,7
+839,Subway Footlong Rotisserie Style Chicken,14
+840,Subway 6 inch Spicy Italian,8
+841,Subway Footlong Spicy Italian,16
+842,Subway 6 inch Steak and Cheese,8
+843,Subway Footlong Steak and Cheese,16
+844,Subway 6 inch Subway Club,7
+845,Subway Footlong Subway Club,14
+846,Subway 6 inch Subway Melt (includes cheese),8
+847,Subway Footlong Subway Melt (includes cheese),16
+848,Subway 6 inch Subway Seafood Sensation,8
+849,Subway Footlong Subway Seafood Sensation,16
+850,Subway 6 inch Sweet Onion Chicken Teriyaki,18
+851,Subway Footlong Sweet Onion Chicken Teriyaki,36
+852,Subway 6 inch Tuna,6
+853,Subway Footlong Tuna,12
+854,Subway 6 inch Turkey & Bacon Avocado,7
+855,Subway Footlong Turkey & Bacon Avocado,14
+856,Subway Kids Mini Sub Turkey Breast,5
+857,Subway 6 inch Turkey Breast,7
+858,Subway Footlong Turkey Breast,14
+859,Subway 6 inch Turkey Breast & Ham,8
+860,Subway Footlong Turkey Breast & Ham,16
+861,Subway 6 inch Turkey Italiano Melt (with Provolone),8
+862,Subway Footlong Turkey Italiano Melt (with Provolone),16
+863,Subway Kids Mini Sub Veggie Delite,4
+864,Subway 6 inch Veggie Delite,6
+865,Subway Footlong Veggie Delite,12
+866,Subway 6 inch Veggie Patty,8
+867,Subway Footlong Veggie Patty,16
+868,Subway Autumn Carved Turkey Salad,22
+869,Subway B.L.T. Salad,5
+870,Subway Big Hot Pastrami Melt Salad,4
+871,Subway Big Philly Cheesesteak Salad,6
+872,Subway Black Forest Ham Salad,6
+873,Subway Buffalo Chicken Salad (with Ranch dressing),6
+874,Subway Carved Turkey & Bacon w/ Cheese Salad,5
+875,Subway Carved Turkey Salad,3
+876,Subway Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),7
+877,Subway Cold Cut Combo Salad,5
+878,Subway Double Chicken Salad,4
+879,Subway Italian B.M.T.® Salad,6
+880,Subway Italian Hero Salad,8
+881,Subway Meatball Marinara Salad,10
+882,Subway Oven Roasted Chicken Salad,4
+883,Subway Roast Beef Salad,5
+884,Subway Spicy Italian Salad,6
+885,Subway Steak & Cheese Salad,6
+886,Subway Subway Club Salad,5
+887,Subway Subway Melt® Salad,6
+888,Subway Sweet Onion Chicken Teriyaki Salad,16
+889,Subway Tuna Salad,4
+890,Subway Turkey Breast & Ham Salad,5
+891,Subway Turkey Breast Salad,5
+892,Subway Veggie Delite Salad,4
+893,Subway Chipotle Southwest Steak & Cheese Wrap,7
+894,Subway Rotisserie-Style Chicken Caesar Wrap,4
+895,Subway Turkey,3
+896,Subway Cheese & Veggies Pizza,9
+897,Subway Cheese Pizza,7
+898,Subway Pepperoni Pizza,8
+899,Subway Sausage Pizza,8
+900,Taco Bell 1/2 lb.* Cheesy Potato Burrito,4
+901,Taco Bell 1/2 lb.* Combo Burrito,3
+902,Taco Bell 7-Layer Burrito,4
+903,Taco Bell Bean Burrito,3
+904,Taco Bell Beefy 5-Layer Burrito,5
+905,Taco Bell Beefy Fritos® Burrito,3
+906,Taco Bell Black Bean Burrito,3
+907,Taco Bell Burrito Supreme® – Beef,5
+908,Taco Bell Burrito Supreme® - Chicken,5
+909,Taco Bell Burrito Supreme® - Steak,5
+910,Taco Bell Cantina Power Burrito - Chicken,7
+911,Taco Bell Cantina Power Burrito - Steak,7
+912,Taco Bell Cantina Power Burrito - Veggie,8
+913,Taco Bell Cheesy Bean and Rice Burrito,4
+914,Taco Bell Chili Cheese Burrito,2
+915,Taco Bell Chicken Crunchy Cheesy Core Burrito,5
+916,Taco Bell Steak Crunchy Cheesy Core Burrito,5
+917,Taco Bell Beef Crunchy Cheesy Core Burrito,5
+918,Taco Bell Loaded Taco Burrito,4
+919,Taco Bell Chicken Quesarito,4
+920,Taco Bell Steak Quesarito,4
+921,Taco Bell Beef Quesarito,5
+922,Taco Bell Shredded Chicken Burrito,3
+923,Taco Bell Smothered Burrito - Beef,4
+924,Taco Bell Smothered Burrito - Shredded Chicken,4
+925,Taco Bell Smothered Burrito - Steak,4
+926,Taco Bell Chicken Spicy Cheesy Core Burrito,5
+927,Taco Bell Steak Spicy Cheesy Core Burrito,5
+928,Taco Bell Beef Spicy Cheesy Core Burrito,5
+929,Taco Bell Triple Melt Burrito,3
+930,Taco Bell XXL Grilled Stuft Burrito - Beef,6
+931,Taco Bell XXL Grilled Stuft Burrito - Chicken,6
+932,Taco Bell XXL Grilled Stuft Burrito - Steak,7
+933,Taco Bell Chicken Soft Taco,1
+934,Taco Bell Cool Ranch® Doritos® Double Decker® Taco,2
+935,Taco Bell Cool Ranch® Doritos® Locos Taco,1
+936,Taco Bell Cool Ranch® Doritos® Locos Taco Supreme,3
+937,Taco Bell Crunchy Taco,1
+938,Taco Bell Crunchy Taco Supreme®,2
+939,Taco Bell Double Decker® Taco,2
+940,Taco Bell DOUBLE DECKER® Taco Supreme®,3
+941,Taco Bell Spicy Sweet Double Stacked Taco,6
+942,Taco Bell Cool Ranch Habanero Double Stacked Taco,3
+943,Taco Bell Nacho Crunch Double Stacked Taco,2
+944,Taco Bell Fiery Doritos® Double Decker® Taco,2
+945,Taco Bell Fiery Doritos® Locos Taco,1
+946,Taco Bell Fiery Doritos® Locos Taco Supreme,2
+947,Taco Bell Grilled Steak Soft Taco,2
+948,Taco Bell Nacho Cheese Doritos® Double Decker® Taco,2
+949,Taco Bell Nacho Cheese Doritos® Locos Tacos,1
+950,Taco Bell Nacho Cheese Doritos® Locos Tacos Supreme,2
+951,Taco Bell Soft Taco Supreme® – Beef,3
+952,Taco Bell Soft Taco-Beef,1
+953,Taco Bell Spicy Potato Soft Taco,1
+954,Taco Bell Chalupa Supreme® - Chicken,4
+955,Taco Bell Chalupa Supreme® - Steak,4
+956,Taco Bell Chalupa Supreme®–Beef,4
+957,Taco Bell Double Chalupa,5
+958,Taco Bell Wild Naked Chicken Chalupa,2
+959,Taco Bell Mild Naked Chicken Chalupa,1
+960,Taco Bell Spicy Double Chalupa,5
+961,Taco Bell Fresco Bean Burrito,3
+962,Taco Bell Fresco Burrito Supreme® – Chicken,4
+963,Taco Bell Fresco Burrito Supreme® – Steak,4
+964,Taco Bell Fresco Chicken Soft Taco,2
+965,Taco Bell Fresco Crunchy Taco,1
+966,Taco Bell Fresco Grilled Steak Soft Taco,2
+967,Taco Bell Fresco Soft Taco,2
+968,Taco Bell Cheesy Gordita Crunch,6
+969,Taco Bell Doritos® Cheesy Gordita Crunch - Cool Ranch,5
+970,Taco Bell Doritos® Cheesy Gordita Crunch - Fiery,4
+971,Taco Bell Doritos® Cheesy Gordita Crunch - Nacho Cheese,5
+972,Taco Bell Double Cheesy Gordita Crunch,5
+973,Taco Bell Gordita Supreme® – Beef,6
+974,Taco Bell Gordita Supreme® - Chicken,6
+975,Taco Bell Gordita Supreme® - Steak,6
+976,Taco Bell Nacho Fries Bellgrande,4
+977,Taco Bell Nachos BellGrande®,5
+978,Taco Bell Nachos Supreme,3
+979,Taco Bell Triple Layer Nachos,2
+980,Taco Bell Triple Melt Nachos,1
+981,Taco Bell Beefy Cheddar Crunchwrap Slider,3
+982,Taco Bell Beefy Mini Quesadilla,1
+983,Taco Bell Beefy Nacho Griller,3
+984,Taco Bell BLT Crunchwrap Slider,4
+985,Taco Bell Cantina Power Bowl - Chicken,4
+986,Taco Bell Cantina Power Bowl - Steak,4
+987,Taco Bell Cantina Power Bowl - Veggie,4
+988,Taco Bell Cheese Quesadilla,3
+989,Taco Bell Cheese Roll-Up,1
+990,Taco Bell Chicken Quesadilla,3
+991,Taco Bell Chickstar,4
+992,Taco Bell Chili Cheese Burrito,2
+993,Taco Bell Chipotle Crispy Chicken Griller,1
+994,Taco Bell Crispy Chicken Quesadilla,3
+995,Taco Bell Crunchwrap Supreme®,7
+996,Taco Bell Double Tostada,2
+997,Taco Bell Express Taco Salad w/ Chips,7
+998,Taco Bell Loaded Potato Griller,5
+999,Taco Bell Mexican Pizza,2
+1000,Taco Bell MexiMelt®,2
+1001,Taco Bell Steak Quesalupa,3
+1002,Taco Bell Chicken Quesalupa,3
+1003,Taco Bell Beef Quesalupa,3
+1004,Taco Bell Shredded Chicken Mini Quesadilla,1
+1005,Taco Bell Spicy Chicken Crunchwrap Slider,3
+1006,Taco Bell Spicy Tostada,1
+1007,Taco Bell Stacker,3
+1008,Taco Bell Steak Quesadilla,3
+1009,Taco Bell Original Triple Double Crunchwrap,7
+1010,Taco Bell Spicy Triple Double Crunchwrap,8
+1011,Taco Bell Express Taco Salad w/ Chips,7
+1012,Taco Bell Fiesta Taco Salad-Beef,7
+1013,Taco Bell Fiesta Taco Salad-Chicken,8
+1014,Taco Bell Fiesta Taco Salad-Steak,8

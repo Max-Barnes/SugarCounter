@@ -47,6 +47,32 @@ from sugar_mcdonalds_temp;
 
 DROP TABLE sugar_mcdonalds_temp;
 
+create table temp_table(
+	name varchar(100),
+	extension varchar(100),
+	sugar int not null
+);
 
+copy temp_table from 'C:\Users\Public\SugarCSV\modified_starbucks_file.csv' DELIMITER ',' CSV HEADER;
+
+insert into food_sugar (name, sugar)
+SELECT CONCAT(name, ' made with ', extension) AS name, sugar
+from temp_table;
+
+DROP TABLE temp_table;
+
+create table temp_table(
+	restaurant varchar(100),
+	name varchar(200),
+	sugar int
+);
+
+copy temp_table from 'C:\Users\Public\SugarCSV\modified_fastfood2.csv' DELIMITER ',' CSV HEADER;
+
+insert into food_sugar (name, sugar)
+SELECT CONCAT(restaurant, ' ', name) as name, sugar
+from temp_table;
+
+DROP TABLE temp_table;
 
 COMMIT;
