@@ -1,0 +1,12 @@
+package com.maxB.SugarCounter.controller;
+
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class SugarController {
+
+    public SugarController() {
+
+    }
+}
