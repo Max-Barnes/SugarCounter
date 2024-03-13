@@ -1,0 +1,243 @@
+Beverage,Beverage_prep, Sugars (g)
+Brewed Coffee,Short,0
+Brewed Coffee,Tall,0
+Brewed Coffee,Grande,0
+Brewed Coffee,Venti,0
+Caffè Latte,Short Nonfat Milk,9
+Caffè Latte,2% Milk,9
+Caffè Latte,Soymilk,4
+Caffè Latte,Tall Nonfat Milk,14
+Caffè Latte,2% Milk,14
+Caffè Latte,Soymilk,6
+Caffè Latte,Grande Nonfat Milk,18
+Caffè Latte,2% Milk,17
+Caffè Latte,Soymilk,8
+Caffè Latte,Venti Nonfat Milk,23
+Caffè Latte,2% Milk,22
+Caffè Latte,Soymilk,11
+Caffè Mocha (Without Whipped Cream),Short Nonfat Milk,17
+Caffè Mocha (Without Whipped Cream),2% Milk,17
+Caffè Mocha (Without Whipped Cream),Soymilk,13
+Caffè Mocha (Without Whipped Cream),Tall Nonfat Milk,27
+Caffè Mocha (Without Whipped Cream),2% Milk,26
+Caffè Mocha (Without Whipped Cream),Soymilk,20
+Caffè Mocha (Without Whipped Cream),Grande Nonfat Milk,34
+Caffè Mocha (Without Whipped Cream),2% Milk,34
+Caffè Mocha (Without Whipped Cream),Soymilk,26
+Caffè Mocha (Without Whipped Cream),Venti Nonfat Milk,44
+Caffè Mocha (Without Whipped Cream),2% Milk,43
+Caffè Mocha (Without Whipped Cream),Soymilk,33
+Vanilla Latte (Or Other Flavoured Latte),Short Nonfat Milk,18
+Vanilla Latte (Or Other Flavoured Latte),2% Milk,17
+Vanilla Latte (Or Other Flavoured Latte),Soymilk,13
+Vanilla Latte (Or Other Flavoured Latte),Tall Nonfat Milk,27
+Vanilla Latte (Or Other Flavoured Latte),2% Milk,27
+Vanilla Latte (Or Other Flavoured Latte),Soymilk,20
+Vanilla Latte (Or Other Flavoured Latte),Grande Nonfat Milk,35
+Vanilla Latte (Or Other Flavoured Latte),2% Milk,35
+Vanilla Latte (Or Other Flavoured Latte),Soymilk,26
+Vanilla Latte (Or Other Flavoured Latte),Venti Nonfat Milk,45
+Vanilla Latte (Or Other Flavoured Latte),2% Milk,44
+Vanilla Latte (Or Other Flavoured Latte),Soymilk,33
+Caffè Americano,Short,0
+Caffè Americano,Tall,0
+Caffè Americano,Grande,0
+Caffè Americano,Venti,0
+Cappuccino,Short Nonfat Milk,7
+Cappuccino,2% Milk,7
+Cappuccino,Soymilk,3
+Cappuccino,Tall Nonfat Milk,8
+Cappuccino,2% Milk,8
+Cappuccino,Soymilk,4
+Cappuccino,Grande Nonfat Milk,10
+Cappuccino,2% Milk,10
+Cappuccino,Soymilk,5
+Cappuccino,Venti Nonfat Milk,14
+Cappuccino,2% Milk,14
+Cappuccino,Soymilk,7
+Espresso,Solo,0
+Espresso,Doppio,0
+Skinny Latte (Any Flavour),Short Nonfat Milk,8
+Skinny Latte (Any Flavour),Tall Nonfat Milk,13
+Skinny Latte (Any Flavour),Grande Nonfat Milk,16
+Skinny Latte (Any Flavour),Venti Nonfat Milk,21
+Caramel Macchiato,Short Nonfat Milk,15
+Caramel Macchiato,2% Milk,15
+Caramel Macchiato,Soymilk,11
+Caramel Macchiato,Tall Nonfat Milk,24
+Caramel Macchiato,2% Milk,23
+Caramel Macchiato,Soymilk,17
+Caramel Macchiato,Grande Nonfat Milk,32
+Caramel Macchiato,2% Milk,32
+Caramel Macchiato,Soymilk,24
+Caramel Macchiato,Venti Nonfat Milk,41
+Caramel Macchiato,2% Milk,40
+Caramel Macchiato,Soymilk,31
+White Chocolate Mocha (Without Whipped Cream),Short Nonfat Milk,29
+White Chocolate Mocha (Without Whipped Cream),2% Milk,29
+White Chocolate Mocha (Without Whipped Cream),Soymilk,25
+White Chocolate Mocha (Without Whipped Cream),Tall Nonfat Milk,45
+White Chocolate Mocha (Without Whipped Cream),2% Milk,44
+White Chocolate Mocha (Without Whipped Cream),Soymilk,39
+White Chocolate Mocha (Without Whipped Cream),Grande Nonfat Milk,58
+White Chocolate Mocha (Without Whipped Cream),2% Milk,58
+White Chocolate Mocha (Without Whipped Cream),Soymilk,51
+White Chocolate Mocha (Without Whipped Cream),Venti Nonfat Milk,74
+White Chocolate Mocha (Without Whipped Cream),2% Milk,74
+White Chocolate Mocha (Without Whipped Cream),Soymilk,64
+Hot Chocolate (Without Whipped Cream),Short Nonfat Milk,23
+Hot Chocolate (Without Whipped Cream),2% Milk,22
+Hot Chocolate (Without Whipped Cream),Soymilk,18
+Hot Chocolate (Without Whipped Cream),Tall Nonfat Milk,32
+Hot Chocolate (Without Whipped Cream),2% Milk,32
+Hot Chocolate (Without Whipped Cream),Soymilk,25
+Hot Chocolate (Without Whipped Cream),Grande Nonfat Milk,41
+Hot Chocolate (Without Whipped Cream),2% Milk,41
+Hot Chocolate (Without Whipped Cream),Soymilk,32
+Hot Chocolate (Without Whipped Cream),Venti Nonfat Milk,55
+Hot Chocolate (Without Whipped Cream),2% Milk,54
+Hot Chocolate (Without Whipped Cream),Soymilk,44
+Caramel Apple Spice (Without Whipped Cream),Short,33
+Caramel Apple Spice (Without Whipped Cream),Tall,49
+Caramel Apple Spice (Without Whipped Cream),Grande,65
+Caramel Apple Spice (Without Whipped Cream),Venti,83
+Tazo® Tea,Short,0
+Tazo® Tea,Tall,0
+Tazo® Tea,Grande,0
+Tazo® Tea,Venti,0
+Tazo® Chai Tea Latte,Short Nonfat Milk,21
+Tazo® Chai Tea Latte,2% Milk,21
+Tazo® Chai Tea Latte,Soymilk,18
+Tazo® Chai Tea Latte,Tall Nonfat Milk,32
+Tazo® Chai Tea Latte,2% Milk,32
+Tazo® Chai Tea Latte,Soymilk,28
+Tazo® Chai Tea Latte,Grande Nonfat Milk,43
+Tazo® Chai Tea Latte,2% Milk,42
+Tazo® Chai Tea Latte,Soymilk,37
+Tazo® Chai Tea Latte,Venti Nonfat Milk,54
+Tazo® Chai Tea Latte,2% Milk,53
+Tazo® Chai Tea Latte,Soymilk,46
+Tazo® Green Tea Latte,Short Nonfat Milk,25
+Tazo® Green Tea Latte,2% Milk,25
+Tazo® Green Tea Latte,Soymilk,20
+Tazo® Green Tea Latte,Tall Nonfat Milk,41
+Tazo® Green Tea Latte,2% Milk,40
+Tazo® Green Tea Latte,Soymilk,33
+Tazo® Green Tea Latte,Grande Nonfat Milk,56
+Tazo® Green Tea Latte,2% Milk,55
+Tazo® Green Tea Latte,Soymilk,46
+Tazo® Green Tea Latte,Venti Nonfat Milk,71
+Tazo® Green Tea Latte,2% Milk,71
+Tazo® Green Tea Latte,Soymilk,58
+Tazo® Full-Leaf Tea Latte,Short Nonfat Milk,16
+Tazo® Full-Leaf Tea Latte,2% Milk,15
+Tazo® Full-Leaf Tea Latte,Soymilk,13
+Tazo® Full-Leaf Tea Latte,Tall Nonfat Milk,23
+Tazo® Full-Leaf Tea Latte,2% Milk,23
+Tazo® Full-Leaf Tea Latte,Soymilk,19
+Tazo® Full-Leaf Tea Latte,Grande Nonfat Milk,31
+Tazo® Full-Leaf Tea Latte,2% Milk,30
+Tazo® Full-Leaf Tea Latte,Soymilk,25
+Tazo® Full-Leaf Tea Latte,Venti Nonfat Milk,39
+Tazo® Full-Leaf Tea Latte,2% Milk,38
+Tazo® Full-Leaf Tea Latte,Soymilk,32
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Short Nonfat Milk,16
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,15
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,13
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tall Nonfat Milk,23
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,23
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,19
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Grande Nonfat Milk,31
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,30
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,25
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Venti Nonfat Milk,39
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,38
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,32
+Iced Brewed Coffee (With Classic Syrup),Tall,15
+Iced Brewed Coffee (With Classic Syrup),Grande,21
+Iced Brewed Coffee (With Classic Syrup),Venti,31
+Iced Brewed Coffee (With Milk & Classic Syrup),Tall Nonfat Milk,18
+Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,18
+Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,17
+Iced Brewed Coffee (With Milk & Classic Syrup),Grande Nonfat Milk,24
+Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,24
+Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,22
+Iced Brewed Coffee (With Milk & Classic Syrup),Venti Nonfat Milk,36
+Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,36
+Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,33
+Shaken Iced Tazo® Tea (With Classic Syrup),Tall,15
+Shaken Iced Tazo® Tea (With Classic Syrup),Grande,21
+Shaken Iced Tazo® Tea (With Classic Syrup),Venti,31
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Tall,24
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Grande,33
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),Venti,49
+Banana Chocolate Smoothie,Grande Nonfat Milk,34
+Banana Chocolate Smoothie,2% Milk,34
+Banana Chocolate Smoothie,Soymilk,31
+Orange Mango Banana Smoothie,Grande Nonfat Milk,37
+Orange Mango Banana Smoothie,2% Milk,37
+Orange Mango Banana Smoothie,Soymilk,36
+Strawberry Banana Smoothie,Grande Nonfat Milk,41
+Strawberry Banana Smoothie,2% Milk,41
+Strawberry Banana Smoothie,Soymilk,40
+Coffee,Tall Nonfat Milk,36
+Coffee,Whole Milk,36
+Coffee,Soymilk,34
+Coffee,Grande Nonfat Milk,50
+Coffee,Whole Milk,50
+Coffee,Soymilk,47
+Coffee,Venti Nonfat Milk,69
+Coffee,Whole Milk,69
+Coffee,Soymilk,66
+Mocha (Without Whipped Cream),Tall Nonfat Milk,40
+Mocha (Without Whipped Cream),Whole Milk,40
+Mocha (Without Whipped Cream),Soymilk,38
+Mocha (Without Whipped Cream),Grande Nonfat Milk,58
+Mocha (Without Whipped Cream),Whole Milk,58
+Mocha (Without Whipped Cream),Soymilk,55
+Mocha (Without Whipped Cream),Venti Nonfat Milk,76
+Mocha (Without Whipped Cream),Whole Milk,76
+Mocha (Without Whipped Cream),Soymilk,73
+Caramel (Without Whipped Cream),Tall Nonfat Milk,41
+Caramel (Without Whipped Cream),Whole Milk,41
+Caramel (Without Whipped Cream),Soymilk,39
+Caramel (Without Whipped Cream),Grande Nonfat Milk,59
+Caramel (Without Whipped Cream),Whole Milk,59
+Caramel (Without Whipped Cream),Soymilk,56
+Caramel (Without Whipped Cream),Venti Nonfat Milk,77
+Caramel (Without Whipped Cream),Whole Milk,77
+Caramel (Without Whipped Cream),Soymilk,73
+Java Chip (Without Whipped Cream),Tall Nonfat Milk,44
+Java Chip (Without Whipped Cream),Whole Milk,44
+Java Chip (Without Whipped Cream),Soymilk,42
+Java Chip (Without Whipped Cream),Grande Nonfat Milk,62
+Java Chip (Without Whipped Cream),Whole Milk,62
+Java Chip (Without Whipped Cream),Soymilk,60
+Java Chip (Without Whipped Cream),Venti Nonfat Milk,84
+Java Chip (Without Whipped Cream),Whole Milk,84
+Java Chip (Without Whipped Cream),Soymilk,80
+Coffee,Tall Nonfat Milk,19
+Coffee,Grande Nonfat Milk,26
+Coffee,Venti Nonfat Milk,33
+Mocha,Tall Nonfat Milk,23
+Mocha,Grande Nonfat Milk,30
+Mocha,Venti Nonfat Milk,42
+Caramel,Tall Nonfat Milk,23
+Caramel,Grande Nonfat Milk,32
+Caramel,Venti Nonfat Milk,43
+Java Chip,Tall Nonfat Milk,27
+Java Chip,Grande Nonfat Milk,39
+Java Chip,Venti Nonfat Milk,52
+Strawberries & Crème (Without Whipped Cream),Tall Nonfat Milk,38
+Strawberries & Crème (Without Whipped Cream),Whole Milk,37
+Strawberries & Crème (Without Whipped Cream),Soymilk,35
+Strawberries & Crème (Without Whipped Cream),Grande Nonfat Milk,52
+Strawberries & Crème (Without Whipped Cream),Whole Milk,52
+Strawberries & Crème (Without Whipped Cream),Soymilk,49
+Strawberries & Crème (Without Whipped Cream),Venti Nonfat Milk,69
+Strawberries & Crème (Without Whipped Cream),Whole Milk,68
+Strawberries & Crème (Without Whipped Cream),Soymilk,64
+Vanilla Bean (Without Whipped Cream),Tall Nonfat Milk,38
+Vanilla Bean (Without Whipped Cream),Whole Milk,38
+Vanilla Bean (Without Whipped Cream),Soymilk,35
+Vanilla Bean (Without Whipped Cream),Grande Nonfat Milk,55
