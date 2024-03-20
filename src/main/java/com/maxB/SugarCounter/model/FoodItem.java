@@ -1,5 +1,7 @@
 package com.maxB.SugarCounter.model;
 
+import org.springframework.stereotype.Component;
+
 public class FoodItem {
     private int sugarContent;
 
