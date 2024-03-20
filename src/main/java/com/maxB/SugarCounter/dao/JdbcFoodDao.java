@@ -7,6 +7,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.support.rowset.SqlRowSet;
 import org.springframework.stereotype.Component;
 
+import javax.sql.DataSource;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,14 +15,15 @@ import java.util.List;
 public class JdbcFoodDao {
     private final JdbcTemplate jdbcTemplate;
 
-    public JdbcFoodDao(JdbcTemplate jdbcTemplate) {
-        this.jdbcTemplate = jdbcTemplate;
+    public JdbcFoodDao(DataSource datasource) {
+        jdbcTemplate = new JdbcTemplate(datasource);
     }
 
 
     /**
        Returns all food items that are similar to given string. Will show results and
      allow user to choose what to add to their eaten foods
+     @param searchQuery searches the database
      */
     public List<FoodItem> getFood(String searchQuery) {
         List<FoodItem> foods = new ArrayList<>();
