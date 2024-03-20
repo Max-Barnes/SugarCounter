@@ -28,7 +28,7 @@ public class JdbcFoodDao {
     public List<FoodItem> getFood(String searchQuery) {
         List<FoodItem> foods = new ArrayList<>();
         String sql = "select name, sugar from food_sugar " +
-                "where name ilike '%?%' order by name asc";
+                "where name ilike '%?%';";
 
         try {
             SqlRowSet results = jdbcTemplate.queryForRowSet(sql, searchQuery);

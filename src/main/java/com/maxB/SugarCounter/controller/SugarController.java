@@ -19,7 +19,7 @@ public class SugarController {
         this.foodDao = foodDao;
     }
 
-    @GetMapping(path= "/food/search?name={search}")
+    @GetMapping(path = "/food/search?{search}")
     public List<FoodItem> searchForSugar(@PathVariable String search) {
         return foodDao.getFood(search);
     }
