@@ -1,6 +1,7 @@
 package com.maxB.SugarCounter.dao;
 
 import com.maxB.SugarCounter.model.FoodItem;
+import jdk.jshell.spi.ExecutionControl;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.jdbc.CannotGetJdbcConnectionException;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -25,21 +26,41 @@ public class JdbcFoodDao {
      allow user to choose what to add to their eaten foods
      @param searchQuery searches the database
      */
-    public List<FoodItem> getFood(String searchQuery) {
+    public List<FoodItem> getFoodByName(String searchQuery) {
         List<FoodItem> foods = new ArrayList<>();
-        String sql = "select name, sugar from food_sugar " +
-                "where name ilike '%?%';";
+        String sql = "select name, sugar from food_sugar where name ilike ?;";
 
         try {
-            SqlRowSet results = jdbcTemplate.queryForRowSet(sql, searchQuery);
+            SqlRowSet results = jdbcTemplate.queryForRowSet(sql, '%' + searchQuery + '%');
 
             while (results.next()) {
                 foods.add(mapRowToFoodItem(results));
             }
         } catch (CannotGetJdbcConnectionException e) {
-            throw new RuntimeException("Cannot access jdbc database");
+            throw new RuntimeException("Cannot access jdbc database" + e);
         }
 
+        return foods;
+    }
+
+    /**
+     * returns entire list of food database.
+     * @return
+     */
+    public List<FoodItem> getAllFoodItems() {
+        List<FoodItem> foods = new ArrayList<>();
+        String sql = "select name, sugar from food_sugar;";
+
+        try {
+            SqlRowSet results = jdbcTemplate.queryForRowSet(sql);
+
+            while (results.next()) {
+                foods.add(mapRowToFoodItem(results));
+            }
+
+        } catch (CannotGetJdbcConnectionException e) {
+            throw new RuntimeException("Cannot access jdbc database");
+            }
         return foods;
     }
 

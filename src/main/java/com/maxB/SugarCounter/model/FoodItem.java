@@ -7,6 +7,14 @@ public class FoodItem {
 
     private String name;
 
+    public FoodItem() {
+
+    }
+    public FoodItem(int sugarContent, String name) {
+        this.sugarContent = sugarContent;
+        this.name = name;
+    }
+
     public int getSugarContent() {
         return sugarContent;
     }

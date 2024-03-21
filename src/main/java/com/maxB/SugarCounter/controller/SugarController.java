@@ -1,8 +1,10 @@
 package com.maxB.SugarCounter.controller;
 
 
+import com.maxB.SugarCounter.dao.FoodDao;
 import com.maxB.SugarCounter.dao.JdbcFoodDao;
 import com.maxB.SugarCounter.model.FoodItem;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
@@ -13,14 +15,18 @@ public class SugarController {
 
     private JdbcFoodDao foodDao;
 
-    public SugarController() {
+    public SugarController(JdbcFoodDao foodDao) {
         this.foodDao = foodDao;
     }
 
-    @GetMapping(path = "/food/search?{query}")
-    public List<FoodItem> searchForSugar(@PathVariable String query) {
-        return foodDao.getFood(query);
+    @RequestMapping(path = "/food/search", method = RequestMethod.GET)
+    public List<FoodItem> searchForSugar(@RequestParam String name) {
+        return foodDao.getFoodByName(name);
     }
 
+    @RequestMapping(path = "/food", method = RequestMethod.GET)
+    public List<FoodItem> getAllFoods() {
+        return foodDao.getAllFoodItems();
+    }
 
 }
