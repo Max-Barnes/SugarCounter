@@ -28,7 +28,7 @@ public class JdbcFoodDao {
      */
     public List<FoodItem> getFoodByName(String searchQuery) {
         List<FoodItem> foods = new ArrayList<>();
-        String sql = "select name, sugar from food_sugar where name ilike ?;";
+        String sql = "select * from food_sugar where name ilike ?;";
 
         try {
             SqlRowSet results = jdbcTemplate.queryForRowSet(sql, '%' + searchQuery + '%');
@@ -72,6 +72,7 @@ public class JdbcFoodDao {
 
     private FoodItem mapRowToFoodItem(SqlRowSet results) {
         FoodItem food = new FoodItem();
+        food.setId(results.getInt("id"));
         food.setName(results.getString("name"));
         food.setSugarContent(results.getInt("sugar"));
 
