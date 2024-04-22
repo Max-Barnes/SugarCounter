@@ -1,78 +1,29 @@
--- Category,Item,Serving Size,Calories,Calories from Fat,Total Fat,Total Fat (% Daily Value),Saturated Fat,Saturated Fat (% Daily Value),Trans Fat,Cholesterol,Cholesterol (% Daily Value),Sodium,Sodium (% Daily Value),
---Carbohydrates,Carbohydrates (% Daily Value),Dietary Fiber,Dietary Fiber (% Daily Value),Sugars,Protein,Vitamin A (% Daily Value),Vitamin C (% Daily Value),Calcium (% Daily Value),Iron (% Daily Value)
+start transaction;
 
--- pod acronym for percent of daily value
-START TRANSACTION;
+drop table if exists food_data;
 
-DROP TABLE IF EXISTS food_sugar;
-
-CREATE TABLE food_sugar (
-	id serial PRIMARY KEY,
-	name varchar(200),
-	sugar int	
-);
-
-CREATE TABLE sugar_mcdonalds_temp(
-	Category varchar(100),
-	Item varchar(100) not null,
-	serving_size varchar(20), 
-	calories varchar(10),
-	calories_from_fat numeric(6,2),
-	totalfat numeric(6,2),
-	totalfat_pod numeric(6,2),
-	saturatedfat numeric(6,2),
-	saturatedfat_pod numeric(6,2),
+create table food_data (
+	id serial primary key,
+	restaurant varchar(200),
+	item varchar(200),
+	cal int,
+	cal_fat int,
+	total_fat int,
+	sat_fat numeric(6,2),
 	trans_fat numeric(6,2),
-	cholesterol numeric(6,2),
-	cholesterol_pod numeric(6,2),
-	sodium numeric(6,2), 
-	sodium_pod numeric(6,2),
-	carbs numeric(6,2),
-	carbs_pod numeric(6,2), 
-	dietary_fiber numeric(6,2),
-	dietary_fiber_pod numeric(6,2),
-	sugars int not null,
-	protein numeric(6,2),
-	vitamina numeric(6,2),
-	vitaminc numeric(6,2), 
-	calcium numeric(6,2),
-	iron numeric(6,2)
+	cholesterol int,
+	sodium int,
+	total_carb int,
+	fiber int,
+	sugar int,
+	protein int,
+	vit_a int,
+	vit_c int,
+	calcium int,
+	salad varchar(50)
 );
 
-copy sugar_mcdonalds_temp from 'C:\Users\Public\SugarCSV\menu.csv' DELIMITER ',' CSV HEADER;
+copy food_data (restaurant, item, cal, cal_fat, total_fat, sat_fat, trans_fat, cholesterol, sodium, total_carb, fiber, sugar, protein, vit_a, vit_c, calcium, salad)
+from 'C:\Users\Public\DatabaseCSV\fastfood.csv' delimiter ',' csv header;
 
-insert into food_sugar (name, sugar)
-select item, sugars 
-from sugar_mcdonalds_temp;
-
-DROP TABLE sugar_mcdonalds_temp;
-
-create table temp_table(
-	name varchar(100),
-	extension varchar(100),
-	sugar int not null
-);
-
-copy temp_table from 'C:\Users\Public\SugarCSV\modified_starbucks_file.csv' DELIMITER ',' CSV HEADER;
-
-insert into food_sugar (name, sugar)
-SELECT CONCAT(name, ' made with ', extension) AS name, sugar
-from temp_table;
-
-DROP TABLE temp_table;
-
-create table temp_table(
-	restaurant varchar(100),
-	name varchar(200),
-	sugar int
-);
-
-copy temp_table from 'C:\Users\Public\SugarCSV\modified_fastfood2.csv' DELIMITER ',' CSV HEADER;
-
-insert into food_sugar (name, sugar)
-SELECT CONCAT(restaurant, ' ', name) as name, sugar
-from temp_table;
-
-DROP TABLE temp_table;
-
-COMMIT;
+commit transaction;

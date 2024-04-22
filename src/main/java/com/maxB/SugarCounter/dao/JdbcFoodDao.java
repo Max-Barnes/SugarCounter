@@ -23,15 +23,15 @@ public class JdbcFoodDao {
 
     /**
        Returns all food items that are similar to given string. Will show results and
-     allow user to choose what to add to their eaten foods
+     allow user to choose what to add to their eaten foods. Can add more data in the future.
      @param searchQuery searches the database
      */
     public List<FoodItem> getFoodByName(String searchQuery) {
         List<FoodItem> foods = new ArrayList<>();
-        String sql = "select * from food_sugar where name ilike ?;";
+        String sql = "select id, restaurant, item, sugar from food_data where item ilike ? or restaurant ilike ?;";
 
         try {
-            SqlRowSet results = jdbcTemplate.queryForRowSet(sql, '%' + searchQuery + '%');
+            SqlRowSet results = jdbcTemplate.queryForRowSet(sql, '%' + searchQuery + '%', '%' + searchQuery + '%');
 
             while (results.next()) {
                 foods.add(mapRowToFoodItem(results));
@@ -44,12 +44,12 @@ public class JdbcFoodDao {
     }
 
     /**
-     * returns entire list of food database.
+     * returns entire list of food database with sugar and name.
      * @return
      */
     public List<FoodItem> getAllFoodItems() {
         List<FoodItem> foods = new ArrayList<>();
-        String sql = "select name, sugar from food_sugar;";
+        String sql = "select item, sugar from food_data;";
 
         try {
             SqlRowSet results = jdbcTemplate.queryForRowSet(sql);
@@ -73,7 +73,7 @@ public class JdbcFoodDao {
     private FoodItem mapRowToFoodItem(SqlRowSet results) {
         FoodItem food = new FoodItem();
         food.setId(results.getInt("id"));
-        food.setName(results.getString("name"));
+        food.setName(results.getString("restaurant")+ ' ' + results.getString("item"));
         food.setSugarContent(results.getInt("sugar"));
 
         return food;
