@@ -2,6 +2,7 @@ package com.maxB.SugarCounter.dao;
 
 import com.maxB.SugarCounter.model.FoodItem;
 import jdk.jshell.spi.ExecutionControl;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.jdbc.CannotGetJdbcConnectionException;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -14,6 +15,8 @@ import java.util.List;
 
 @Component
 public class JdbcFoodDao {
+
+    @Autowired
     private final JdbcTemplate jdbcTemplate;
 
     public JdbcFoodDao(DataSource datasource) {
